@@ -58,8 +58,28 @@
 
 
 
+.masonry-wrapper .five{
+    position: relative;
+    bottom: 10rem;
+}
+
+.masonry-wrapper .seven{
+    position: relative;
+    bottom: 14rem;
+}
+
+.masonry-wrapper .eight{
+    position: relative;
+    bottom: 14rem;
+}
+.masonry-wrapper .nine{
+    position: relative;
+    bottom: 14rem;
+}
+
+
 /*PAGE AND GRID*/
-.masonry-wrapper {
+/* .masonry-wrapper {
     width: 100%;
     margin: 0 auto;
 }
@@ -71,6 +91,8 @@
     left: 50px;
     top: 247px;
 }
+
+
 
 .masonry-wrapper .two{
     position: absolute;
@@ -134,7 +156,7 @@
     height: 736px;
     left: 923px;
     top: 971px;
-}
+} */
 
 
 /* BUTTON FLOAT */
