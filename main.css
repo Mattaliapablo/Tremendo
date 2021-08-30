@@ -21,7 +21,7 @@
     font-family: 'Abhaya Libre', serif;
     font-style: normal;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 28px;
     text-decoration: none;
     margin-left: 45px;
@@ -204,19 +204,6 @@
 }
 /*FOOTER*/
 
-footer{
-    position: absolute;
-    width: 1440px;
-    height: 128px;
-    left: 0px;
-    bottom: 0px;
-    background-color: #4A4A4A;
-}
-
-footer .fa-whatsapp, .footer-wrapper .fa-instagram, .footer-wrapper .fa-facebook-f{
-    height: 50px;
-    width: 50px;
-}
 
 
 .footeri{
